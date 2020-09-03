@@ -7,6 +7,7 @@ O*NET data contains a rich set of variables that describe work and worker charac
 
 
 **goal**
+
 1. provide definition of analytical: to better understand analytical work 
 
 -   Come up with approaches, evaluate these approaches, tradeoffs
@@ -25,10 +26,11 @@ O*NET data contains a rich set of variables that describe work and worker charac
 3) evaluate the gender gap, what other data sources can further work on
 
 
-**Deliverable**
-1.       replicatable script(s) 
 
-2.       A short slide deck with the following pieces of information. 
+**Deliverable**
+1. replicatable script(s) 
+
+2. A short slide deck with the following pieces of information. 
 
 a.       A description of your approach. What approaches did you consider? What are the tradeoffs between different approaches you considered? Why did you settle on the approach you used?  
 
