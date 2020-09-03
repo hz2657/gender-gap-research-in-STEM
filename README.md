@@ -27,7 +27,7 @@ O*NET data contains a rich set of variables that describe work and worker charac
 
 
 
-**Deliverable**
+# **Deliverable**
 1. replicatable script(s) 
 
 2. A short slide deck with the following pieces of information. 
