@@ -10,11 +10,8 @@ O*NET data contains a rich set of variables that describe work and worker charac
 
 1. provide definition of analytical: to better understand analytical work 
 
--   Come up with approaches, evaluate these approaches, tradeoffs
+-   Come up with approaches, evaluate these approaches, tradeoffs to provide definition of “analytical”
 
--   Settle on an approach for defining jobs as analytica: defining which jobs as analytical.
-
--   Provide efinition of “analytical”
 
 
 2. provide insights on whether there is a gender gap for analytical work in the labor force
