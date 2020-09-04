@@ -2,7 +2,8 @@
 
 
 **data**
-O*NET data contains a rich set of variables that describe work and worker characteristics, link: [https://www.onetcenter.org/database.html?p=2]
+
+O*NET data contains a rich set of variables that describe work and worker characteristics, [https://www.onetcenter.org/database.html?p=2]
 
 
 
